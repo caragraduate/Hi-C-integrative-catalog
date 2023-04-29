@@ -1,4 +1,4 @@
-# Hi-C LCLs catalog
+# Hi-C integrative catalog
 This repository contains codes and processed files for the manuscript entitled *"A comprehensive catalog of 3D genome organization facilitates the understanding of the impact of structural variation on chromatin structure in diverse human genomes"*. Specifically, it includes the codes corresponding to the analyses of the main results listed below:
 
   1. TAD boundary calling by Insulation Score
