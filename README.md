@@ -3,5 +3,5 @@ This repository contains codes and processed files for the manuscript entitled *
 
   1. TAD boundary calling by Insulation Score
   2. Comprehensive TAD catalog integration
-  3. Quantificatin of SVs’ impact on 3D chromatin structure, gene expression and splicing levels
+  3. Quantification of SVs’ impact on 3D chromatin structure, gene expression, and splicing levels
 
